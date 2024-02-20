@@ -1,0 +1,13 @@
+Number of observations: Flight Date        729
+
+Target flight time:  239.49 minutes 
+Typical time of this route:  263.12 minutes 
+
+Time added per airline: 
+AA:  27.89 minutes
+F9:  35.82 minutes
+NK:  28.07 minutes
+UA:  29.69 minutes
+VX:  26.42 minutes
+
+Airline with lowest time added: VX
